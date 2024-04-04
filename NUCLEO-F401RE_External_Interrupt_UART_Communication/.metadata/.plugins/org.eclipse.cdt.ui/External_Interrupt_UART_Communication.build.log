@@ -1,0 +1,10 @@
+12:17:51 **** Incremental Build of configuration Debug for project External_Interrupt_UART_Communication ****
+make -j4 all 
+arm-none-eabi-size   External_Interrupt_UART_Communication.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11248	     20	   1652	  12920	   3278	External_Interrupt_UART_Communication.elf
+Finished building: default.size.stdout
+ 
+
+12:17:52 Build Finished. 0 errors, 0 warnings. (took 886ms)
+
